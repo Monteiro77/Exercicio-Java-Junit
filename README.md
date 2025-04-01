@@ -15,4 +15,4 @@ Este projeto implementa um sistema básico para cálculo de aluguel de veículos
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/locadora-veiculos.git
+   git clone https://github.com/monteiro77/Exercicio-Java-Junit.git
